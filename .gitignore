@@ -1,0 +1,8 @@
+.vs/
+ipch/
+Release/
+Debug/
+
+*.db
+*.opendb
+*.user
