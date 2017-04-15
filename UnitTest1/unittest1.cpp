@@ -12,7 +12,7 @@ namespace UnitTest1
 		
 		TEST_METHOD(TestMethod1)
 		{
-			Assert::AreEqual(2, f1(1, 2));
+			Assert::AreEqual(3, f1(1, 2));
 			Assert::AreEqual(1, f1(1, -1));
 		}
 
