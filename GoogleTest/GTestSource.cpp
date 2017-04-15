@@ -13,5 +13,5 @@ TEST(Test_f1, returnA)
 
 TEST(Test_f1, returnB)
 {
-	EXPECT_EQ(2, f1(1, 2));
+	EXPECT_EQ(3, f1(1, 2));
 }
